@@ -1,0 +1,11 @@
+ec\edu\ups\pweb\business\DemoInicio.class
+ec\edu\ups\pweb\services\CarroServices.class
+ec\edu\ups\pweb\services\ErrorMessage.class
+ec\edu\ups\pweb\business\GestionCarrosRemoto.class
+ec\edu\ups\pweb\model\Carro.class
+ec\edu\ups\pweb\services\CORSFilter.class
+ec\edu\ups\pweb\services\PathBase.class
+ec\edu\ups\pweb\business\GestionCarrosLocal.class
+ec\edu\ups\pweb\dao\CarroDAO.class
+ec\edu\ups\pweb\business\GestionCarros.class
+ec\edu\ups\pweb\demojq\Persona.class
